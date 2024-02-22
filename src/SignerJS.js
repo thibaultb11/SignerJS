@@ -1,3 +1,6 @@
+// SignerJS ©
+//Made by Thibault BEE - 2024
+
 document.addEventListener("DOMContentLoaded", function () {
     var canvas = new fabric.Canvas('drawingCanvas', {
         isDrawingMode: true

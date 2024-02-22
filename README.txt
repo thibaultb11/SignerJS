@@ -1,3 +1,6 @@
+//SignerJS ©
+//Made by Thibault BEE
+
 // How to use SignerJS
 
 // First link your page to SignerJS
